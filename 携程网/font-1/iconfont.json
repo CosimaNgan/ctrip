@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14727",
+      "name": "社区",
+      "font_class": "shequ",
+      "unicode": "f02a4",
+      "unicode_decimal": 983716
+    },
+    {
+      "icon_id": "819858",
+      "name": "index",
+      "font_class": "index",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "853593",
+      "name": "my",
+      "font_class": "my",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "4352728",
+      "name": "message",
+      "font_class": "message",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    }
+  ]
+}
